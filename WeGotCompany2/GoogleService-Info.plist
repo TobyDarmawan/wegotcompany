@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>495658434379-ubeaqjt0t9j4as82jduadknk5bkgn8fs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.495658434379-ubeaqjt0t9j4as82jduadknk5bkgn8fs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5sGAm28I-mZouF6mou89toyqzyB3QxjY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>495658434379</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.TobyDarmawan.WeGotCompany2</string>
+	<key>PROJECT_ID</key>
+	<string>wegotcompany3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wegotcompany3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:495658434379:ios:3c82ab714d3e84d1</string>
+	<key>DATABASE_URL</key>
+	<string>https://wegotcompany3.firebaseio.com</string>
+</dict>
+</plist>
